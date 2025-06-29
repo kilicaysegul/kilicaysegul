@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Ayşegül! 👋
 
-<!--
-**kilicaysegul/kilicaysegul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Engineering student at Haliç University.  
+💻 I'm currently doing an internship in the **networking & IT department**, learning Cisco and network fundamentals.  
+💻 I have completed my frontend intern using Html,javascript and CSS languages.
+🌐 I'm passionate about **web development**, especially frontend design and interactive user experiences.
 
-Here are some ideas to get you started:
+🧠 My projects aim to combine **mythology, creativity, and learning** — like my recent [Mythology Website](https://kilicaysegul.github.io/Mythology-WEBSITE/) which makes ancient stories fun and educational!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 I also experiment with **Python & FastAPI** for backend projects.  
+📡 Interested in IoT, cybersecurity, and smart systems.
+
+📄 [View My CV](https://drive.google.com/file/d/1N4gA1199Hp2oDrv2PzzgqCg-uW1kHFEX/view?usp=sharing)
+🔗 [LinkedIn](https://www.linkedin.com/in/ayşegül-kılıç-46003825a/)
+🌍 [My GitHub Website](https://kilicaysegul.github.io/)
+
+---
+
+_✨ Let's build and learn together!_
