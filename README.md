@@ -12,7 +12,7 @@
 
 📄 [View My CV](https://drive.google.com/file/d/1LRc9mGffXtTUNvV7kuEZVB3CRJ3Mtrct/view?usp=sharing)
 🔗 [LinkedIn](https://www.linkedin.com/in/ayşegül-kılıç-46003825a/)
-🌍 [My GitHub Website](https://kilicaysegul.github.io/)
+🌍 [My GitHub Website](https://github.com/kilicaysegul)
 
 ---
 
