@@ -10,7 +10,7 @@
 🔧 I also experiment with **Python & FastAPI** for backend projects.  
 📡 Interested in IoT, cybersecurity, and smart systems.
 
-📄 [View My CV](https://drive.google.com/file/d/1zqRy2_ljb3ZjBn6GTI5TWVPGELS4AeOR/view?usp=sharing)
+📄 [View My CV](https://drive.google.com/file/d/1LRc9mGffXtTUNvV7kuEZVB3CRJ3Mtrct/view?usp=sharing)
 🔗 [LinkedIn](https://www.linkedin.com/in/ayşegül-kılıç-46003825a/)
 🌍 [My GitHub Website](https://kilicaysegul.github.io/)
 
